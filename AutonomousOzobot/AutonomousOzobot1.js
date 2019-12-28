@@ -4,14 +4,14 @@ var dWSL;
 var dWSR;
 var dWS;
 
-// Function returns TRUE if an obstacle is detected by left front sensor
+// Function returns TRUE if an obstacle is detected by left front sensor at some close distance
 function ObstacleLeft() {
   if (getIrIntensity(LEFT_FRONT) > 10) {
     return true;
   }
   return false;
 }
-// Function returns TRUE if an obstacle is detected by right front sensor
+// Function returns TRUE if an obstacle is detected by right front sensor at some close distance
 function ObstacleRight() {
   if (getIrIntensity(RIGHT_FRONT) > 10) {
     return true;
