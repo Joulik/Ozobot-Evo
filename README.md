@@ -11,4 +11,4 @@ Below an image file of the Ozoblockly code with some comments.
 
 Below an image file of the Ozoblockly code.
 
-![BlocklyCode2](AutonomousOzobot/RandomExplorationOfSpaceBlocklyCode.png)
+![BlocklyCode2](RAndomExplorationOfSpace/RandomExplorationOfSpaceBlocklyCode.png)
